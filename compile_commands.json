@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-o",
+      "./build/kilo",
+      "kilo.c"
+    ],
+    "directory": "/Users/moss0321/dev/projects/kilo",
+    "file": "/Users/moss0321/dev/projects/kilo/kilo.c",
+    "output": "/Users/moss0321/dev/projects/kilo/./build/kilo"
+  }
+]
