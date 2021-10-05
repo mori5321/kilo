@@ -1,3 +1,11 @@
+// Build Your Own Text Editor
+// Chapter 0. https://viewsourcecode.org/snaptoken/kilo/ (done)
+// Chapter 1. https://viewsourcecode.org/snaptoken/kilo/01.setup.html (done)
+// Chapter 2. https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html (done)
+
+// Next. Chapter 3. Append buffer.
+
+
 /*** includes ***/
 #include <stdio.h>
 #include <errno.h>
@@ -6,13 +14,6 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <sys/ioctl.h>
-
-
-// Build Your Own Text Editor
-// Chapter 0. https://viewsourcecode.org/snaptoken/kilo/ (done)
-// Chapter 1. https://viewsourcecode.org/snaptoken/kilo/01.setup.html (done)
-// Chapter 2. https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html (done)
-// Chapter 3. Window Size, the hardway
 
 
 /*** defines ***/
